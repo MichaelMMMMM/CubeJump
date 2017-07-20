@@ -1,0 +1,14 @@
+CMPU6050.pp.o: \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CMPU6050.cpp \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CMPU6050.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/SMPU6050Data.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Global.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Assertion.h
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CMPU6050.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/SMPU6050Data.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Global.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Assertion.h:

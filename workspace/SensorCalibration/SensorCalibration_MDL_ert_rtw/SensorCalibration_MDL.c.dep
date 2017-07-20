@@ -1,0 +1,34 @@
+SensorCalibration_MDL.c.o: SensorCalibration_MDL.c \
+ SensorCalibration_MDL.h rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2016b/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2016b/simulink/include/sysran_types.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/dt_info.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_work.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_types.h \
+ SensorCalibration_MDL_types.h multiword_types.h \
+ SensorCalibration_MDL_private.h SensorCalibration_MDL_dt.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_types.h
+
+SensorCalibration_MDL.h:
+
+rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2016b/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2016b/simulink/include/sysran_types.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/dt_info.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_work.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_types.h:
+
+SensorCalibration_MDL_types.h:
+
+multiword_types.h:
+
+SensorCalibration_MDL_private.h:
+
+SensorCalibration_MDL_dt.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_types.h:

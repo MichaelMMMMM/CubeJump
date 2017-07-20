@@ -1,0 +1,6 @@
+
+ Experiment 1: jump_velocity = 200, 10 Wiederholungen, torque=-0.01Nm, unmittelbar aufeinander
+ Experiment 2: jump_velocity = 50, 75, 100, 125, 150, 175, 200, 225, 250, 275, 300;
+               torque=-0.01Nm, unmittelbar aufeinander
+
+20x jede Geschwindigkeit aus Experiment 2?

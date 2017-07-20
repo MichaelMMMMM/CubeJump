@@ -1,0 +1,29 @@
+ADCCalibration_MDL_data.c.o: ADCCalibration_MDL_data.c \
+ ADCCalibration_MDL.h rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2016b/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2016b/simulink/include/sysran_types.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/dt_info.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_work.h \
+ C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_types.h \
+ ADCCalibration_MDL_types.h multiword_types.h \
+ ADCCalibration_MDL_private.h
+
+ADCCalibration_MDL.h:
+
+rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2016b/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2016b/simulink/include/sysran_types.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/dt_info.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_work.h:
+
+C:/PROGRA~1/MATLAB/R2016b/rtw/c/src/ext_mode/common/ext_types.h:
+
+ADCCalibration_MDL_types.h:
+
+multiword_types.h:
+
+ADCCalibration_MDL_private.h:

@@ -1,0 +1,14 @@
+MS_Cube_Brake_Wrapper.pp.o: \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/MS_Cube_Brake_Wrapper.cpp \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CBrake.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CPWM.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Global.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Assertion.h
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CBrake.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CPWM.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Global.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Assertion.h:

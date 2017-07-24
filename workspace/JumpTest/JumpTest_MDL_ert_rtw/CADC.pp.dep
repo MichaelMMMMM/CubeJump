@@ -1,0 +1,11 @@
+CADC.pp.o: \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CADC.cpp \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CADC.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Global.h \
+ C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Assertion.h
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/CADC.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Global.h:
+
+C:/Users/ich/Desktop/SimulinkCodeGeneration/workspace/EmbeddedCoderTarget/MS_Cube_Blockset/lib/Assertion.h:
